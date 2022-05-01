@@ -11,8 +11,8 @@ Pandas<br>
 Streamlit<br>
 Hashlib<br>
 
-![Ledger in action:](/images/screen.png)
-
+![Ledger in action:](/images/screen.png)<br>
+![dropdown:](/images/screen2.png)<br>
 ---
 ### Contributors
  Vic Gellon<br>
