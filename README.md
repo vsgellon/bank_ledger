@@ -11,7 +11,7 @@ Pandas<br>
 Streamlit<br>
 Hashlib<br>
 
-(Images/screen.png)
+![Ledger in action:](Images/screen.png)
 
 ---
 ### Contributors
