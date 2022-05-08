@@ -13,6 +13,23 @@ Hashlib<br>
 
 ![Ledger in action:](/images/screen.png)<br>
 ![dropdown:](/images/screen2.png)<br>
+
+### Installation
+Before running the application first install the following dependencies.
+
+Install Anaconda from link
+Open up GitBash(Windows) or Terminal(Mac)
+Type conda pdate conda to update Conda
+Type conda update anaconda to update Anaconda
+Type conda create -n dev python=3.9 anaconda
+Type conda activate dev to activate conda
+Instal  a dev environment kernel by typing python -m ipykernel install --user --name dev
+Install a node environment by typing conda install -c conda-forge nodejs
+Launch JupyterLab by typing jupyter lab
+Open a terminal window, and then activate your dev virtual environment by runnin the following command:
+
+conda activate dev 
+
 ---
 ### Contributors
  Vic Gellon<br>
